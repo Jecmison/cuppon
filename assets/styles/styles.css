@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+nav {
+  background: #28a745;
+}
+h5 i {
+  color: #999;
+}
+p {
+  font-weight: 300;
+  margin: 0%;
+}
+
+.cuppon img {
+  width: 80px;
+  height: 25px;
+}
+article {
+  background: #28a745;
+}
